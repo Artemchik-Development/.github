@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-## This is the organization i post my software and other things
+### This is the organization i post my software and other things
